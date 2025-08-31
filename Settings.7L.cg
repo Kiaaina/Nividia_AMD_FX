@@ -1,0 +1,22 @@
+[Nividia.AMD.7E.Ehero.cg : .cg=(@>?)>!]
+@include="*\Nividia.AMD.7E.Ehero.cg"
+/*Version_Calculas.Z.0*/
+;............................................................
+/* 0=Off 1=On */
+;............................................................
+SFK=1 /*SF.Knights*/
+Navy=1 /*Recoil*/
+Gang=0 /*Recoil*/
+Sebsitivity=5% /*Mouse_Joystick*/
+MICRO=1 /*Microphone*/
+;............................................................
+Quality=1 (<) Performance=10
+;............................................................
+Quality_Performance=5
+Blur=1.5%
+Sharp=9.7%
+Halo=1 /*Halograph*/
+VR=1
+SM=0
+Distance=5.3
+Size=160%
